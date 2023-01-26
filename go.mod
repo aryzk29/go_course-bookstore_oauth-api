@@ -3,6 +3,8 @@ module github.com/aryzk29/go_course-bookstore_oauth-api
 go 1.18
 
 require (
+	github.com/aryzk29/bookstore-utils-go v0.0.0-20220811082152-3d090d450707 // indirect
+	github.com/aryzk29/bookstore_oauth-go v0.0.0-20220811084341-1f7a8077804e // indirect
 	github.com/aryzk29/go_course-bookstore_users-api v0.0.0-20220721070023-7ebd693e54a8 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
